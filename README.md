@@ -1,8 +1,8 @@
-# ?? FlipItNews - News Category Classification with NLP and Machine Learning
+#  FlipItNews - News Category Classification with NLP and Machine Learning
 
 This project demonstrates an end-to-end pipeline for **multi-class text classification** using natural language processing (NLP) techniques and machine learning models. The goal is to classify news articles into predefined categories based on their content.
 
-## ?? Overview
+##  Overview
 
 - **Dataset**: Custom dataset containing news articles and their corresponding categories.
 - **Preprocessing**: Tokenization, stopword removal, lemmatization, and contraction expansion.
@@ -17,7 +17,7 @@ This project demonstrates an end-to-end pipeline for **multi-class text classifi
 
 ---
 
-## ?? Project Workflow
+##  Project Workflow
 
 1. **Install Dependencies**
 
@@ -52,12 +52,11 @@ This project demonstrates an end-to-end pipeline for **multi-class text classifi
 6. **Results Visualization**
 
 - Comparing models visually based on accuracy
-![image](![image](https://github.com/user-attachments/assets/fd416a9a-3399-4943-88f3-bc9ae43dd40f)
-)
+![image](https://github.com/user-attachments/assets/fd416a9a-3399-4943-88f3-bc9ae43dd40f)
 
 ---
 
-## ?? Model Comparison Results
+## Model Comparison Results
 
 The following models were trained and evaluated:
 
@@ -72,7 +71,7 @@ _Naive Bayes and Random Forest outperformed the other models._
 
 ---
 
-## ??? Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Pandas, NumPy
@@ -82,17 +81,17 @@ _Naive Bayes and Random Forest outperformed the other models._
 
 ---
 
-## ?? File Structure
+##  File Structure
 
-??? flipitnews-data.csv # Dataset file 
-??? requirements.txt # List of dependencies 
-??? flipitnews_classification.py # Main Jupyter Notebook / Python script 
-??? README.md # Project documentation
+- flipitnews-data.csv # Dataset file 
+- requirements.txt # List of dependencies 
+- flipitnews_classification.py # Main Jupyter Notebook / Python script 
+- README.md # Project documentation
 
 
 ---
 
-## ?? Future Improvements
+## Future Improvements
 
 - Incorporate deep learning models (e.g., LSTM, BERT)
 - Handle class imbalance
@@ -100,7 +99,7 @@ _Naive Bayes and Random Forest outperformed the other models._
 
 ---
 
-## ?? Contact
+## Contact
 
 For questions or collaboration, feel free to connect:
 
@@ -110,5 +109,5 @@ Data Science & Analytics @Scaler Academy
 
 ---
 
-?? If you find this project useful, please consider starring the repository!
+If you find this project useful, please consider starring the repository!
 
