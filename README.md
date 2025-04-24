@@ -105,7 +105,7 @@ For questions or collaboration, feel free to connect:
 
 **Vaibhav**  
 Data Science & Analytics @Scaler Academy  
-[LinkedIn]([https://www.linkedin.com/in/vaibhav-pandey-re2103/]) • [GitHub](https://github.com/vaibhpande21)
+[LinkedIn](https://www.linkedin.com/in/vaibhav-pandey-re2103/) • [GitHub](https://github.com/vaibhpande21)
 
 ---
 
